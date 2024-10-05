@@ -1,0 +1,53 @@
+.header { 
+    background-color: #5b9bd5;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.logo {
+    margin: 0px;
+    padding-left: 20px;
+    width: 15%;
+}
+
+.topnav { 
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+body {
+    background: #afdff2;
+     margin: 0px;
+    
+    .p1{
+        font-family: "Arabic Typesetting"
+    }
+
+    .title {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    h1, h2, h3 {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    h1 {
+        line-height: 2.2;
+    }
+
+ 
+
+
+}
