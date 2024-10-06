@@ -8,7 +8,7 @@ body {
 h1 {
 font-family: "Caveat", cursive;
 font-size: 2.5rem;
-color: #fdfbfb;
+color: #ffffff;
 margin: 0;
 font-family: "Arabic Typesetting"
 }
@@ -16,7 +16,7 @@ font-family: "Arabic Typesetting"
 .subtitle,
 nav a {
 font-size: 1.5em;
-color: #dbdada;
+color: #ffffff;
 text-transform: uppercase;
 }
 .container {
@@ -48,7 +48,7 @@ nav a {
     
     nav a:hover,
     nav a:focus {
-    color: #ffffff;
+    color: #ffd415;
     }
 @media screen and (max-width: 850px) {
     .container {
@@ -110,3 +110,6 @@ footer {
     font-size:0.75em;
     padding-top:100px;
 }
+.valinta {
+     color: #ffd415;
+    }
